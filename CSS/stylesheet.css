@@ -1,5 +1,7 @@
-.indexBody {
-    background-color: #111;
+#indexBody {
+    background-color: blue;
+    
+
 }
 
 #navbar navbar-inverse {}
