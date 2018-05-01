@@ -1,5 +1,8 @@
-#pagewrap {
-    width: 800px
-    margin: 0 auto;
-            
+.indexBody {
+    background-color: #111;
 }
+
+#navbar navbar-inverse {}
+
+
+
