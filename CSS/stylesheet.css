@@ -9,8 +9,9 @@
     margin-right: auto;
 }
 
-.gameDevbody {
-    background-color: aqua;
+.welcome{
+    text-align: center;
+    font-family: cursive; 
 }
 
 
@@ -18,7 +19,9 @@
 
 
 
-
+.gameDevbody {
+    background-color: aqua;
+}
 
 
 #navbar navbar-inverse {}
